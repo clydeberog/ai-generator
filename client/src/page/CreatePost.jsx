@@ -81,7 +81,7 @@ const CreatePost = () => {
     <section className="max-w-7xl mx-auto">
       <div>
         <h1 className="font-extrabold text-[#222328] text-[32px]">Create</h1>
-        <p className="mt-2 text-[#666e75] text-[14px] max-w-[500px]">Generate an imaginative image through DALL-E AI and share it with the community</p>
+        <p className="mt-2 text-[#666e75] text-[14px] max-w-[500px]">With just a few clicks, you can create beautiful and professional-grade images that are sure to impress. So why wait? Try out our AI image generator today and unlock your creative potential like never before!</p>
       </div>
 
       <form className="mt-16 max-w-3xl" onSubmit={handleSubmit}>
