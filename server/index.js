@@ -17,7 +17,7 @@ app.use('/api/v1/dalle', dalleRoutes);
 
 app.get('/', async (req, res) => {
   res.status(200).json({
-    message: 'ai-generator server running',
+    message: 'Hello from DALL.E!',
   });
 });
 
